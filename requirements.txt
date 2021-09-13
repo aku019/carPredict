@@ -41,7 +41,7 @@ pyrsistent==0.18.0
 
 
 pytz==2021.1
-pywinpty==1.1.4
+
 pyzmq @ file:///C:/ci/pyzmq_1628276144921/work
 qtconsole==5.1.1
 QtPy==1.11.0
