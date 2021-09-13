@@ -62,8 +62,6 @@ six @ file:///tmp/build/80754af9/six_1623709665295/work
 terminado==0.12.1
 testpath==0.5.0
 threadpoolctl==2.2.0
-tornado @ file:///C:/ci/tornado_1606942392901/work
-wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
-webencodings==0.5.1
+tornado @ file:///C:/ci/tornado_1606942392901/workwebencodings==0.5.1
 widgetsnbextension==3.5.1
 wincertstore==0.2
