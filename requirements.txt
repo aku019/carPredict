@@ -9,7 +9,6 @@ cycler==0.10.0
 
 defusedxml==0.7.1
 entrypoints==0.3
-ipykernel @ file:///C:/ci/ipykernel_1629995240690/work/dist/ipykernel-6.2.0-py3-none-any.whl
 ipython @ file:///C:/ci/ipython_1628244008373/work
 ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 ipywidgets==7.6.4
