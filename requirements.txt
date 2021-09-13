@@ -3,7 +3,7 @@ attrs==21.2.0
 bleach==4.1.0
 certifi==2021.5.30
 cffi==1.14.6
-colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+
 cycler==0.10.0
 debugpy @ file:///C:/ci/debugpy_1629222854708/work
 decorator @ file:///tmp/build/80754af9/decorator_1621259047763/work
