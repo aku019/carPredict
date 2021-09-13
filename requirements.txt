@@ -9,7 +9,6 @@ cycler==0.10.0
 
 defusedxml==0.7.1
 entrypoints==0.3
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 ipywidgets==7.6.4
 jedi @ file:///C:/ci/jedi_1611315808330/work
 Jinja2==3.0.1
