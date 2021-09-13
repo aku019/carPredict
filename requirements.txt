@@ -37,7 +37,7 @@ pycparser==2.20
 pyparsing==2.4.7
 pyrsistent==0.18.0
 
-Pygments @ file:///tmp/build/80754af9/pygments_1629234116488/work
+
 
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 
