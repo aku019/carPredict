@@ -10,7 +10,6 @@ cycler==0.10.0
 defusedxml==0.7.1
 entrypoints==0.3
 ipywidgets==7.6.4
-jedi @ file:///C:/ci/jedi_1611315808330/work
 Jinja2==3.0.1
 joblib==1.0.1
 jsonschema==3.2.0
