@@ -6,7 +6,7 @@ cffi==1.14.6
 
 cycler==0.10.0
 
-decorator @ file:///tmp/build/80754af9/decorator_1621259047763/work
+
 defusedxml==0.7.1
 entrypoints==0.3
 ipykernel @ file:///C:/ci/ipykernel_1629995240690/work/dist/ipykernel-6.2.0-py3-none-any.whl
